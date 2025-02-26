@@ -1,0 +1,29 @@
+{
+  "name": "wuyuan-task-manage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "s": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "echarts": "^5.5.1",
+    "element-ui": "^2.15.14",
+    "vue": "^2.7.16",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "axios": "^1.7.7",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
